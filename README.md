@@ -1,2 +1,2 @@
 # Flask-application
-This is server site code for golden ratio app.  
+This is server side code for golden ratio app.  
